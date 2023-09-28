@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @trpubz
-- 👀 I’m interested in Fantasy Baseball
+- 📖 I'm classically trained in Ruby/Rails Backend Dev from the Turing School of Software and Design.
 - 🌱 I have Masters Certificate in Data Analytics.  I love Swift
-- 💞️ I’m looking to collaborate on a Fantasy Baseball Project and/or SwiftUI
+- 💞️ I love/live/laugh Fantasy Baseball
+- 👀 I’m looking to collaborate on a Fantasy Baseball Project and/or SwiftUI
 - 📫 How to reach me [insta](instagram.com/trpubz)
 
 <!---
